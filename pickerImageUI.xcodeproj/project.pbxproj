@@ -11,6 +11,7 @@
 		D2ED39992B2720F9006C3A68 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2ED39982B2720F9006C3A68 /* ContentView.swift */; };
 		D2ED399B2B2720FB006C3A68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2ED399A2B2720FB006C3A68 /* Assets.xcassets */; };
 		D2ED399E2B2720FB006C3A68 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2ED399D2B2720FB006C3A68 /* Preview Assets.xcassets */; };
+		D2ED39A52B27245F006C3A68 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2ED39A42B27245F006C3A68 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D2ED39982B2720F9006C3A68 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D2ED399A2B2720FB006C3A68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2ED399D2B2720FB006C3A68 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D2ED39A42B27245F006C3A68 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D2ED39962B2720F9006C3A68 /* pickerImageUIApp.swift */,
 				D2ED39982B2720F9006C3A68 /* ContentView.swift */,
+				D2ED39A42B27245F006C3A68 /* ImagePicker.swift */,
 				D2ED399A2B2720FB006C3A68 /* Assets.xcassets */,
 				D2ED399C2B2720FB006C3A68 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2ED39A52B27245F006C3A68 /* ImagePicker.swift in Sources */,
 				D2ED39992B2720F9006C3A68 /* ContentView.swift in Sources */,
 				D2ED39972B2720F9006C3A68 /* pickerImageUIApp.swift in Sources */,
 			);
